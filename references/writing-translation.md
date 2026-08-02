@@ -1,5 +1,40 @@
 # 写作模板 + 翻译技巧
 
+## 现行六级写作：给句起笔（2026.6 真题校准）
+
+卷面常见要求：
+
+- *write an essay that **begins with the sentence** “……”*
+- *copy the sentence given in quotes at the beginning*
+- **150–200 words**
+
+**考场顺序：** 原样抄给句 → 亮观点 → 2–3 层论证 → 收束号召。
+
+### 2026年6月三套给句
+
+1. **文化自信：** Faced with growing globalization, students realize that a deep understanding of traditional Chinese culture helps cultivate cultural confidence.
+2. **亲近自然：** With the trend of urbanization, it is vitally important for city residents to develop a stronger love for nature.
+3. **青年责任：** In an era of rapid social development, it is vitally important to enhance young people’s sense of responsibility.
+
+### 给句作文万能骨架
+
+```
+[第一句：原样抄题目给句]
+It is my belief that ________.（观点）
+The reasons for this are not far to seek.
+For individuals, ________.
+For society, ________.
+For the nation / community, ________.
+In conclusion, ________. Therefore, let's ________.
+```
+
+加分句式示例（来自 2026.6 第1套范文逻辑）：
+
+- It is this shared identity that gives confidence its lasting power.（强调句）
+- Only when they truly grasp the spirit of their own culture can they engage in equal dialogue.（倒装）
+
+---
+
 ## 写作高分句型库
 
 ### 引出话题句型
@@ -75,6 +110,33 @@
 **第二段：** There are several reasons accounting for this change. Firstly, [原因1]. Secondly, [原因2]. 
 
 **第三段：** Based on the analysis above, [结论]. Measures should be taken to [建议].
+
+---
+
+## 翻译：2026.6 真题题材 + 替换法
+
+### 第1套主题：科技 + 医疗
+
+**原文要点：** 科技进步 / 远程医疗 / 视频会诊 / AI 辅助诊断 / 电子健康档案 / 线上咨询 / 科技与医疗融合
+
+| 中文 | 高配 | 保命替换 |
+|------|------|----------|
+| 远程医疗 | telemedicine | medical service online |
+| 优质医疗资源 | high-quality medical resources | better medical resources |
+| 人工智能辅助诊断系统 | AI-assisted diagnostic systems | AI that helps doctors diagnose |
+| 电子健康档案 | electronic health records | electronic medical records |
+| 使……惠及 | make … accessible to | bring … to more people |
+| 深度融合 | deep integration | close combination |
+
+**句式提醒：** “近年来”→ 现在完成时；“使 A 惠及 B”优先 *make A accessible to B*，别硬译 *make benefit*。
+
+### 第2套主题：电商 + 乡村振兴
+
+**关键词：** e-commerce / live-streaming commerce（直播带货）/ rural residents / agricultural products / digital economy
+
+### 第3套主题：中国科技成就类（如无人机产业等）
+
+按「现状 → 应用 → 意义」三段译，专有概念不会写就解释含义。
 
 ---
 
