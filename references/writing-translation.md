@@ -130,13 +130,15 @@ In conclusion, ________. Therefore, let's ________.
 
 **句式提醒：** “近年来”→ 现在完成时；“使 A 惠及 B”优先 *make A accessible to B*，别硬译 *make benefit*。
 
-### 第2套主题：电商 + 乡村振兴
+### 第2套：电商 + 乡村振兴（全文见 `cet6-2026-06.md`）
 
-**关键词：** e-commerce / live-streaming commerce（直播带货）/ rural residents / agricultural products / digital economy
+**关键词：** e-commerce / live-streaming commerce / rural revitalization / agricultural products / information barriers
 
-### 第3套主题：中国科技成就类（如无人机产业等）
+### 第3套：无人机产业（全文见 `cet6-2026-06.md`）
 
-按「现状 → 应用 → 意义」三段译，专有概念不会写就解释含义。
+**关键词：** drone / high-definition / strategic emerging industry / crop diseases and pests / inject momentum into…
+
+三套完整中文原文 + 高配/保命译文以 `references/cet6-2026-06.md` 第四节为准。
 
 ---
 
