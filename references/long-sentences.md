@@ -1,111 +1,88 @@
-# 长难句拆解框架
+# 长难句：限定谓语、层级和完整意思
 
-## 句子成分速查
+以下例句均为自编。定语从句与倒装规则可复核 [Cambridge 定语从句](https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses-defining-and-non-defining)、[倒装](https://dictionary.cambridge.org/grammar/british-grammar/inversion)及 [only](https://dictionary.cambridge.org/grammar/british-grammar/only)。
 
-先搞清楚英文句子的骨架，就这几块积木：
+## 五步拆解
 
-| 成分 | 作用 | 怎么找 |
-|------|------|--------|
-| **主语** | 谁/什么 | 通常在谓语动词前面，名词/代词/从句 |
-| **谓语** | 做了什么/是什么 | 动词！找到动词就找到了句子的心脏 |
-| **宾语** | 动作的对象 | 在谓语动词后面 |
-| **表语** | 主语是什么/怎么样 | 在 be/become/seem 等系动词后面 |
-| **定语** | 修饰名词 | 形容词、介词短语、定语从句 → 回答"什么样的" |
-| **状语** | 修饰动词/整句 | 副词、介词短语、状语从句 → 回答"怎么/何时/何地/为什么" |
-| **同位语** | 解释说明名词 | 紧跟在名词后面，用逗号隔开或用 that 从句 |
+1. 找**限定谓语**，包括助动词/情态动词组成的完整动词组。doing/to do 不自动是谓语；is studying 整体是谓语。
+2. 找连接词及从句边界，辨并列层级。and 可能连接词、短语或整个分句。
+3. 每层分别找主语与谓语，确定主句主干。宾语、表语和必要补语不能当修饰全删。
+4. 补回限定、否定、情态、比较、条件和指代。括号只是暂时降低负担。
+5. 翻成通顺中文，并检查谁做什么、发生/可能发生、范围是否一致。
 
-> 记住：主语+谓语 是最小的完整句子。找到这两个，句子就不再可怕。
+不把所有介词短语删掉。例如 depends on reliable data 中 on reliable data 是动词需要的补足信息。
 
-## 修饰成分标记法
+## 标记法
 
-拿到一个长难句，按这个方法动手标记：
+可用 (介词短语)、[定语从句]、{名词性从句}，并写出从句功能。标记必须一致：that 引导宾语从句时不能误标为定语或状语。不定式目的短语不等同完整状语从句。
 
-1. **圆括号 ( )** → 标记介词短语：(in the morning), (of the country)
-2. **方括号 [ ]** → 标记定语从句：the man [who came yesterday]
-3. **尖括号 < >** → 标记状语从句：<When the rain stopped>, we went out.
-4. **花括号 { }** → 标记同位语/插入语：Tom, {my best friend}, is here.
+## 典型结构与演示
 
-把这些都标记出来后，剩下的就是**主干**。
+### 1. 主语带后置修饰
 
-## 五种常见长难句结构
+The students [who revised their essays after receiving feedback] **made** fewer errors in the next task.
 
-### 结构一：主语超长型
+主干：The students made fewer errors.
+who 从句修饰 students；after receiving feedback 的逻辑主语是 students。
+完整译：收到反馈后修改作文的学生，在下一项任务中犯的错误更少。
 
-主语本身就是一大坨，后面跟了一堆修饰。
+### 2. 名词性从句套定语从句
 
-**拆解思路**：跳过主语的修饰成分，直接找谓语动词。
+Researchers **believe** {that the policy [which the city introduced last year] **has improved** access to public transport}.
 
-> 例：The student [who scored the highest on the exam] [and [who had been studying for months]] **received** a scholarship.
-> 
-> 主干：The student **received** a scholarship.（那个学生拿到了奖学金）
-> 修饰：who scored the highest... and who had been studying...（考最高分的、学了好几个月的）
+外层：Researchers believe + 宾语从句。
+内层：the policy has improved access。
+which 是 introduced 的宾语，the city 是该定语从句主语。
+译：研究人员认为，该市去年推出的政策改善了公共交通的可达性。
 
-### 结构二：多重从句嵌套型
+### 3. 同位语从句 vs 定语从句
 
-从句里面套从句，像俄罗斯套娃。
+The claim {that the policy is effective} needs evidence.
+that 后是一句完整命题，解释 claim 的内容。
 
-**拆解思路**：从最外层开始，一层一层剥。
+The claim [that the report challenges] needs evidence.
+challenges 缺宾语，that 指代 claim 并作宾语。
 
-> 例：Scientists believe <that the study [which was published last year] proves [that climate change is accelerating]>.
->
-> 第一层主干：Scientists believe that...（科学家们认为...）
-> 第二层：the study proves that...（这项研究证明...）
-> 第三层：climate change is accelerating（气候变化在加速）
-> 修饰：which was published last year（去年发表的）
+检查从句成分和名词语义，不只看“名词后有 that”。
 
-### 结构三：并列结构型
+### 4. 分词与逻辑主语
 
-用 and/but/or 连接多个并列成分，容易搞混谁跟谁并列。
+Having checked the data, the team revised its conclusion.
+完成检查的是 team，再修改结论。
 
-**拆解思路**：找 and/but/or，判断它连接的是什么级别（词?短语?句子?）
+易错：Having checked the data, the conclusion was revised.
+在通常表达中，conclusion 不能充当检查者，应改主语或写 After the team had checked the data, ...
 
-> 例：The policy has **reduced** pollution (in urban areas) **and** **improved** the quality (of life) (for millions of residents).
->
-> 主干：The policy has reduced ... and improved ...（这个政策减少了...并且改善了...）
-> 两个并列的谓语：reduced 和 improved
+### 5. 形式主语 vs 强调句
 
-### 结构四：被动+后置定语型
+It is important to check the evidence.
+it 为形式主语，真正的主语内容为 to check the evidence。
 
-被动语态 + 一堆后面跟的修饰，常见于学术文章。
+It was the evidence that changed her mind.
+是强调结构，去掉 It was ... that 后可恢复 The evidence changed her mind。
 
-**拆解思路**：找 be + 过去分词，那就是谓语。
+不能看到 It is ... that 就断言形式主语；先判断被强调成分和句子是否完整。
 
-> 例：A new method (of data analysis) **was proposed** (by researchers) (at MIT) <to solve the problem [that had puzzled experts (for decades)]>.
->
-> 主干：A new method **was proposed**.（一种新方法被提出了）
-> 修饰：of data analysis（数据分析的）、by researchers at MIT（由MIT研究人员）、to solve the problem...（为了解决...的问题）
+### 6. 倒装恢复
 
-### 结构五：it 形式主语型
+Only when the evidence is checked **can we accept** the conclusion.
+状语从句不倒装，主句 can 提到 we 前。
+恢复：We can accept the conclusion only when the evidence is checked.
 
-It is/was ... that/who/to... 真正的主语在后面。
+Only the team leader **can approve** the report.
+only 修饰主语，**不倒装**。
 
-**拆解思路**：把 it 替换成后面 that/to 引导的内容。
+Not only **did the policy reduce** costs, but it also improved access.
+首分句补助动词 did，实义动词用原形。若 not only 只连接句中两个宾语，不因它存在而整句倒装。
 
-> 例：**It** is widely believed <that education **plays** a crucial role (in the development) (of a nation)>.
->
-> 还原：That education plays a crucial role in the development of a nation **is** widely believed.
-> 大白话：人们普遍认为教育在国家发展中起关键作用。
+### 7. 否定与范围
 
-## 练习模板
+Not all students agreed. = 并非所有学生都同意。
+No students agreed. = 没有学生同意。
+may help ≠ must help；less likely ≠ impossible。
 
-拿到一个长难句，按这四步走：
+译句复查时特别检查这些范围差异。
 
-```
-【原句】粘贴长难句原文
+## 给学生的交付
 
-【第一步：标记修饰成分】
-用括号标出所有介词短语、从句、插入语
-
-【第二步：提取主干】
-主语：___
-谓语：___
-宾语/表语：___
-
-【第三步：大白话翻译主干】
-___
-
-【第四步：逐层还原完整意思】
-加上修饰成分后的完整翻译：___
-```
-
-> 同学们，长难句不是天书。你觉得难，是因为你想一口气读懂整句话。改成先抓骨架、再补细节，立马就清晰了。这就像吃鱼——先把鱼刺挑出来，再吃鱼肉，别带刺往嘴里塞！
+原句 → 分层标记 → 每层主干 → 一处关键结构解释 → 完整译文 → 一道针对难点的变式。简单句只展示必要步骤，避免括号装饰多于解释。

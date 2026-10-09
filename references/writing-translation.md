@@ -1,200 +1,100 @@
-# 写作模板 + 翻译技巧
+# 写作与翻译：审题、组装、反馈
 
-## 现行六级写作：给句起笔（2026.6 真题校准）
+以下骨架和例句为教学整理/自编，不是老师原话或官方范文。题型、常见字数见 [exam-facts.md](exam-facts.md)；批改见 [feedback-and-diagnosis.md](feedback-and-diagnosis.md)。
 
-卷面常见要求：
+## 审题卡
 
-- *write an essay that **begins with the sentence** “……”*
-- *copy the sentence given in quotes at the beginning*
-- **150–200 words**
+写前明确：考试；文体；读者；必须完成的任务；字数；给句/图表/要点限制。
+例如建议邮件需要称呼、建议和理由，不能换成抽象议论文。给句作文只有 Directions 要求时原样保留给句。
 
-**考场顺序：** 原样抄给句 → 亮观点 → 2–3 层论证 → 收束号召。
+## 四六级议论文：观点 → 理由 → 具体例子 → 收束
 
-### 2026年6月三套给句
+1. 开头回应题目，而不是背一段与主题无关的“社会发展”。
+2. 中间段选一两个能解释观点的理由，例子要说明机制。
+3. 结尾回扣观点或提出可执行建议，不新开大话题。
 
-1. **文化自信：** Faced with growing globalization, students realize that a deep understanding of traditional Chinese culture helps cultivate cultural confidence.
-2. **亲近自然：** With the trend of urbanization, it is vitally important for city residents to develop a stronger love for nature.
-3. **青年责任：** In an era of rapid social development, it is vitally important to enhance young people’s sense of responsibility.
+自编骨架：
+- In my view, [直接回应题目].
+- One reason is that [理由]. For example, [具体场景与结果].
+- Another consideration is [不同理由].
+- Therefore, [与论点一致的建议或判断].
 
-### 给句作文万能骨架
+骨架不代替内容；不强制个人/社会/国家三层。写环境议题不必无依据上升到国家叙事。
 
-```
-[第一句：原样抄题目给句]
-It is my belief that ________.（观点）
-The reasons for this are not far to seek.
-For individuals, ________.
-For society, ________.
-For the nation / community, ________.
-In conclusion, ________. Therefore, let's ________.
-```
+## 句型怎样准确使用
 
-加分句式示例（来自 2026.6 第1套范文逻辑）：
+| 功能 | 自编例句 | 条件/风险 |
+|---|---|---|
+| 原因 | This happens because students have limited time. | since/as 可能有歧义，视语境 |
+| 让步 | Although the tool is useful, its output still needs checking. | 不再加 but |
+| 建议 | Schools should provide clearer guidance. | 比无主语的口号具体 |
+| 强调 | It is regular practice that builds confidence. | 不为炫技牺牲自然 |
+| 条件倒装 | Only when we check the facts can we draw a sound conclusion. | 主句倒装，when 从句不倒装 |
+| 并列 | The policy reduces costs and improves access. | 并列成分形式一致 |
 
-- It is this shared identity that gives confidence its lasting power.（强调句）
-- Only when they truly grasp the spirit of their own culture can they engage in equal dialogue.（倒装）
+关于倒装参考 [Cambridge](https://dictionary.cambridge.org/grammar/british-grammar/inversion)；not only 句首的分句倒装，句中并列成分不强制倒装。没有必要每篇都用复杂句。
 
----
+## 考研应用文
 
-## 写作高分句型库
+先完成交际任务，再选表达：邀请要有活动、时间地点、参与方式；建议要有问题、具体建议和理由；道歉要解释并给补救。
 
-### 引出话题句型
+自编邮件片段：
+Dear Alex,
+I am writing to invite you to our reading workshop.
+It will take place in the library on Saturday afternoon.
+Please let me know whether you can join us.
+Best regards,
+Li Ming
 
-1. It is universally acknowledged that + 主题句（众所周知...）
-2. It is obvious / apparent / evident that + 观点（显而易见...）
-3. With the rapid development of society / technology, + 现象（随着社会/科技的快速发展...）
-4. In recent years, there has been a growing concern about + 话题（近年来，人们越来越关注...）
-5. When it comes to + 话题, opinions vary from person to person.（谈到...，人们观点不一）
+这里只演示结构，不是达到考试字数的整篇范文。具体署名和身份按题面；通知则用标题、信息主体、落款/日期，不照搬信件格式。
 
-### 表达观点句型
+## 考研大作文
 
-1. From my perspective / In my opinion, ...（在我看来...）
-2. There is no denying that ...（不可否认...）
-3. It is widely believed that ...（人们普遍认为...）
-4. I am firmly convinced that ...（我坚定地认为...）
+**图画类**：准确描述关键动作和关系 → 提炼主题 → 解释主题并举例/论证 → 合理收束。没有提供图像时不编人物、文字或象征。
 
-### 举例论证句型
+**图表类**：明确单位、时间、对象 → 描述主趋势和关键比较 → 谨慎解释 → 收束。图表本身通常只支持变化和比较，不能直接证明原因。
 
-1. A case in point is that ...（一个典型的例子是...）
-2. Take ... for example / instance（以...为例）
-3. As is vividly shown in the picture/chart, ...（如图/表所示...）
-4. According to a recent survey / study, ...（根据最近的调查/研究...）
+自编数据：2020年参与率40%，2025年60%。
+正确：rose by 20 percentage points；相对增长50%。
+错误：rose by 20 percent（若实际要表达20个百分点）。
+分清 number / proportion / percentage，不能把比例写成人数；不要虚构 source、调查样本和政策原因。
 
-### 总结收尾句型
+## 四六级汉译英
 
-1. In conclusion / To sum up, ...（总之...）
-2. Taking all factors into consideration, ...（综合考虑所有因素...）
-3. Only in this way can we + 动词原形（只有这样我们才能...）【倒装句加分】
-4. It is high time that we + 动词过去式（是我们...的时候了）【虚拟语气加分】
+按信息块先列谁/做什么/何时/如何，再组成句子。简单表达可以准确得体；“不会就换”必须保留核心意义。
 
-### 加分特殊句型
+| 中文 | 稳妥表达 | 易丢信息的过度简化 |
+|---|---|---|
+| 饺子 | dumplings / Chinese dumplings | food |
+| 高铁 | high-speed rail / high-speed trains，视对象 | fast transport |
+| 远程医疗 | telemedicine / medical care provided remotely | medical service online，范围可能过宽 |
+| 春联 | Spring Festival couplets，必要时解释形式 | red paper，丢了文字与节俗 |
+| 可持续发展 | sustainable development | development that lasts long，丢了可持续含义 |
+| 农村电商 | e-commerce in rural areas | online business，丢了地域 |
 
-**倒装句：**
-- Not only ... but also ...（Not only 放句首要倒装）
-- Never / Seldom / Hardly + 倒装（否定词开头倒装，放段末最出彩）
-- Only + 状语放句首 + 倒装
+术语不熟时用准确定义性解释；题面给括号术语时优先利用。近年来不必一律现在完成时：时态取决于时间范围与动作性质。
 
-**强调句：**
-- It is + 被强调部分 + that + 其余部分
+自编：近年来，更多居民通过网络购买农产品。
+In recent years, more residents have bought agricultural products online.
+若原文讲过去某个已结束年份，则应按其时间改过去时。
 
-**虚拟语气：**
-- If I were ..., I would ...
-- It is suggested / recommended that + 主语 + (should) + 动词原形
+## 考研英译汉
 
----
+先确定结构，再依上下文译语境义；把修饰词放到合理中文位置，不漏掉情态、否定和比较。英语一画线句也可能需要前后文定位指代；英语二段落应保持指代和术语一致。
 
-## 万能写作模板
+自编：The policy may reduce costs, but it is unlikely to benefit every household.
+译：这项政策可能降低成本，但不太可能让每个家庭都受益。
+may 不是“必然”；unlikely 不是“绝不”；every 的范围要保留。
 
-### 模板一：社会现象/问题类
+## 交稿检查与改写原则
 
-**第一段（引出现象 3-4句）：**
-> It is universally acknowledged that [话题] has become a heated topic in our society. As is vividly shown in the picture, [描述图片/现象]. This phenomenon has aroused wide public concern. The reasons behind it are worth exploring.
+主谓一致、时态、冠词、单复数、介词搭配、句子边界、代词指代、任务覆盖、字数逐项检查。
 
-**第二段（分析原因/影响 5-6句）：**
-> Several factors contribute to this phenomenon. First and foremost, [原因1+展开]. In addition, [原因2+展开]. Last but not least, [原因3+展开]. As a result, [影响/后果].
+- many informations → much information。
+- Although ... but ... → 保留其中一个连接结构。
+- I very like reading → I like reading very much。
+- go to university 表示上大学，本身可以正确；不要一律补 the。
+- 两个完整句子不能只用一个逗号拼接，可用句号、分号或合适连词。
+- 先给学生最小修改版，另有需要再提供更自然版；不把全部句子换成其写不出的高级表达。
 
-**第三段（总结建议 2-3句）：**
-> Taking all factors into consideration, effective measures should be taken to [解决方案]. Only in this way can we [美好愿景]. 
-
-### 模板二：观点论述类
-
-**第一段：** There is a heated debate on whether [话题]. From my perspective, [你的观点].
-
-**第二段：** My reasons are as follows. To begin with, [论据1]. Furthermore, [论据2]. A case in point is that [具体例子].
-
-**第三段：** In conclusion, [重申观点]. It is high time that we [行动号召].
-
-### 模板三：图表描述类（考研英语二）
-
-**第一段：** As is clearly shown in the chart/table, [描述数据趋势]. The number of [主题] increased/decreased from [数据] to [数据] during [时间段].
-
-**第二段：** There are several reasons accounting for this change. Firstly, [原因1]. Secondly, [原因2]. 
-
-**第三段：** Based on the analysis above, [结论]. Measures should be taken to [建议].
-
----
-
-## 翻译：2026.6 真题题材 + 替换法
-
-### 第1套主题：科技 + 医疗
-
-**原文要点：** 科技进步 / 远程医疗 / 视频会诊 / AI 辅助诊断 / 电子健康档案 / 线上咨询 / 科技与医疗融合
-
-| 中文 | 高配 | 保命替换 |
-|------|------|----------|
-| 远程医疗 | telemedicine | medical service online |
-| 优质医疗资源 | high-quality medical resources | better medical resources |
-| 人工智能辅助诊断系统 | AI-assisted diagnostic systems | AI that helps doctors diagnose |
-| 电子健康档案 | electronic health records | electronic medical records |
-| 使……惠及 | make … accessible to | bring … to more people |
-| 深度融合 | deep integration | close combination |
-
-**句式提醒：** “近年来”→ 现在完成时；“使 A 惠及 B”优先 *make A accessible to B*，别硬译 *make benefit*。
-
-### 第2套：电商 + 乡村振兴（全文见 `cet6-2026-06.md`）
-
-**关键词：** e-commerce / live-streaming commerce / rural revitalization / agricultural products / information barriers
-
-### 第3套：无人机产业（全文见 `cet6-2026-06.md`）
-
-**关键词：** drone / high-definition / strategic emerging industry / crop diseases and pests / inject momentum into…
-
-三套完整中文原文 + 高配/保命译文以 `references/cet6-2026-06.md` 第四节为准。
-
----
-
-## 翻译替换词表
-
-### 中国文化类高频难词替换
-
-| 原词 | 不会写？换成 |
-|------|-------------|
-| 饺子 | traditional Chinese food / dumplings |
-| 春联 | red paper with good wishes |
-| 剪纸 | paper cutting art |
-| 京剧 | traditional Chinese opera |
-| 丝绸之路 | the ancient trade road between China and Europe |
-| 四合院 | traditional Chinese house with a yard |
-| 中秋节 | Mid-Autumn Festival / the festival for family reunion |
-| 红包 | lucky money / gift money in red envelope |
-| 功夫 | Chinese martial arts / kung fu |
-
-### 经济社会类高频难词替换
-
-| 原词 | 不会写？换成 |
-|------|-------------|
-| 共享经济 | sharing economy |
-| 电子商务 | online business / e-commerce |
-| 高铁 | high-speed train / fast train |
-| 移动支付 | mobile payment / paying by phone |
-| 精准扶贫 | helping poor people in a targeted way |
-| 城镇化 | more people moving to cities |
-| 可持续发展 | development that lasts long / sustainable development |
-| 一带一路 | the Belt and Road (国际通用，直接用) |
-
-### 教育科技类高频难词替换
-
-| 原词 | 不会写？换成 |
-|------|-------------|
-| 素质教育 | education focusing on students' overall ability |
-| 应试教育 | exam-oriented education |
-| 人工智能 | AI / smart machines |
-| 大数据 | big data (直接用) |
-| 创新创业 | starting new businesses with new ideas |
-| 终身学习 | learning throughout one's life |
-
----
-
-## 常见语法错误 Top 10
-
-同学们，这些错误最容易丢分，写完一定要检查！
-
-1. **主谓不一致**：Everyone have → Everyone **has**
-2. **时态混乱**：一篇文章里一会儿过去时一会儿现在时
-3. **可数不可数搞混**：many informations → much **information**
-4. **there be 句型后面又加主语**：There are many people think → There are many people **who** think / Many people think
-5. **中式英语语序**：I very like → I like ... very much
-6. **缺少冠词**：go to university → go to **the** university（看语境）
-7. **介词搭配错误**：interested for → interested **in**
-8. **run-on sentence**：两个完整句子用逗号连接 → 用句号/分号/连词
-9. **被动语态缺 be**：The problem solved → The problem **was** solved
-10. **代词指代不清**：they/it 到底指谁，要让阅卷老师一眼看懂
+旧版 2026年6月题目与参考译文仍在 [cet6-2026-06.md](cet6-2026-06.md)，使用前读核验状态。
