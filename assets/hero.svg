@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">刘晓艳风格 · 英语陪练</title>
+<desc id="desc">CET-4 / CET-6 / 考研英语一、二。讲阅读证据，拆长难句，改自己的作文。 非官方开源教学Skill。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12213b"/><stop offset="1" stop-color="#0a1221"/></linearGradient></defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+<g stroke="#ffffff" opacity="0.05"><path d="M850 0V360M930 0V360M1010 0V360M1090 0V360M1170 0V360M770 80H1280M770 160H1280M770 240H1280M770 320H1280"/></g>
+<rect x="54" y="47" width="7" height="250" rx="3" fill="#55ddbe"/>
+<g font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<text x="90" y="80" font-size="15" letter-spacing="3" fill="#55ddbe">OPEN SOURCE · AGENT SKILL</text>
+<text x="90" y="143" font-size="44" font-weight="700" fill="#f6f8fc">刘晓艳风格 · 英语陪练</text>
+<text x="90" y="191" font-size="22" fill="#b9c7dd">CET-4 / CET-6 / 考研英语一、二</text>
+<text x="90" y="239" font-size="25" fill="#f6f8fc">讲阅读证据，拆长难句，改自己的作文。</text>
+<text x="90" y="301" font-size="15" fill="#869ab8">tong666-bit / liu-xiaoyan-skill</text>
+</g>
+<rect x="896" y="100" width="310" height="146" rx="16" fill="#ffffff" fill-opacity="0.04" stroke="#55ddbe" stroke-opacity="0.4"/>
+<g font-family="'Segoe UI',sans-serif" fill="#55ddbe" text-anchor="middle">
+<text x="1051" y="154" font-size="33" font-weight="700">LEARN BY DOING</text>
+<text x="1051" y="197" font-size="12" letter-spacing="1">READ · LISTEN · WRITE · REVIEW</text>
+</g></svg>

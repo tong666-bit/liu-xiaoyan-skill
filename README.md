@@ -1,5 +1,13 @@
 # 刘晓艳风格英语 Skill
 
+![刘晓艳风格英语陪练：阅读证据、长难句和作文反馈](assets/hero.svg)
+
+**把“看懂答案”变成“下一题会做”。**面向四六级与考研英语的中文 AI 陪练：先找证据，再拆错因，最后给一个变式。
+
+[三分钟看讲题示意](examples/showcase.md) · [安装与更新](#安装与更新) · [试用提问](examples/demo-prompts.md) · [版本下载](https://github.com/tong666-bit/liu-xiaoyan-skill/releases) · [反馈问题](https://github.com/tong666-bit/liu-xiaoyan-skill/issues)
+
+Chinese-language English tutoring Agent Skill for CET-4, CET-6 and postgraduate entrance exams: evidence-based reading explanations, listening review, grammar, writing feedback and study planning.
+
 直白、幽默、分步讲题的英语陪练，覆盖 **CET-4 / CET-6 / 考研英语一、二**。保留原 skill 名 `liu-xiaoyan-english` 和仓库名，兼容“刘晓燕 / liuxiaoyan”叫法；书目作者名为刘晓艳。
 
 **非本人、非官方出品。**课堂话术与例题为教学设计，不冒充老师原话。
@@ -76,3 +84,9 @@ git clone https://github.com/tong666-bit/liu-xiaoyan-skill.git "%USERPROFILE%\.c
 旧版整理声称来自桌面试题册OCR，原件未随仓库提交。机构参考资料与旧版套号存在差异；花卷选项也可能不同。提供原题与选项之后再核证据，不能只按“第几套”取答案。
 
 考试规则以最新官方通知和当次题面为准；近期安排不能永久写死。开源指令和原创内容采用 [MIT](LICENSE)；第三方试题、教材和课程内容保留其原有权利，不因仓库MIT许可而变成自由授权材料。
+
+## 一起学习
+
+也在备考高数或线代？看看同作者的[宋浩风格数学陪练](https://github.com/tong666-bit/song-hao-math)：15个完整自编例题，分步推导，解释定理条件与常见错法。
+
+如果这个项目帮你讲清了一道题，欢迎 **Star 收藏**，或把仓库链接分享给同学。带原题和你的过程提Issue，能帮助下一位学习者少踩一个坑。
